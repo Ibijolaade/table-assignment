@@ -6,6 +6,7 @@ table, th, td{
     font-size: large;
     margin-left: auto;
     margin-right: auto;
+    background-color: rgb(223, 217, 217);
 }
 p{
     font-size: medium;
